@@ -1181,4 +1181,4 @@ message.channel.sendEmbed(avatar)
 
 
 
-client.login("");
+client.login("process.env.TOKEN");
